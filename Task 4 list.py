@@ -70,6 +70,57 @@
 # mails = ["Письмо 1", "Письмо 2", "Письмо 3", "Письмо 4", "Письмо 5"]
 # mails.reverse()
 # print(mails)
-# ЗАДАЧА 4
+
+# # ЗАДАЧА 4
+# emails = ["Письмо 1", "Письмо 2", "Письмо 3", "Письмо 4", "Письмо 5"]
+# a = emails[2]
+# b = emails[3]
+#
+# print('Третье письмо:',a)
+# print('Предпоследнее письмо:',b)
+
+#  ## Задача 5
+# results = [10, 8, 9, 7, 6, 9, 10, 8, 9, 10]
+# a = sum(results)
+# b = len(results)
+# c = a//b
+# print(c)
+# min_score = min(results)
+# max_score = max(results)
+# print(min_score)
+# print(max_score)
+
+# ## Задача 6
+# fruits = ["яблоко", "банан", "опельсин", "виноград"]
+# fruits[2] = 'апельсин'
+# print(fruits)
+
+# ## Задача 7
+# speed = 4096 / 1024
+# time = 120 * 60
+# coast = 0.125
+# free = 500
+# file = speed * time
+# money = (file - free)*coast
+# print(file)
+# print(money)
+
+# ## Задача 8
+# money = 10000
+# add = 5000
+# money += add
+# print(money)
+
+# ## Задача 9
+# group_124 = ['Дарья', 'Софья', 'Фатима', 'Елизавета', 'Алина', 'Эвилина', 'Элеонора', 'Маргарита', 'Полина', 'Юрий','Илья','Екатерина']
+# group_1 = group_124[:6]
+# group_2 = group_124[6:]
+# print(group_1)
+# print(group_2)
+
+
+
+
+
 
 
